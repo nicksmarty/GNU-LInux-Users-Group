@@ -1,1 +1,3 @@
 markdown: redcarpet
+baseurl: /GNU-LInux-Users-Group
+exclude: ['README.md']
